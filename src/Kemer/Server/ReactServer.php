@@ -73,7 +73,8 @@ class ReactServer
                     )
                 );
             }
-            e($response, 'blue');
+            list($headers, $content) = explode("\r\n\r\n", $response, 2);
+            e(sprintf("%s\n\n%s[...]%s", $headers, substr($content, 0, 30), substr($content, -30)), 'blue');
             return $response;
         } else {
             e($request->toString(), 'red');
