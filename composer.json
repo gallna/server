@@ -2,18 +2,13 @@
     "name": "gallna/server",
     "require": {
         "react/socket": "0.4.*@dev",
-        "jalder/upnp": "*",
-        "guzzlehttp/guzzle": "~6.0",
         "react/socket-client": "0.4.*@dev",
-        "zendframework/zend-soap": "2.4.*",
+        "guzzlehttp/guzzle": "~6.0",
         "zendframework/zend-uri": "2.4.*",
         "zendframework/zend-http": "2.4.*",
-        "ramsey/uuid": "~2.8",
-        "morrisonlevi/ardent": "^0.14.0",
         "raveren/kint": "^1.0",
         "nikic/fast-route": "^0.6.0",
-        "monolog/monolog": "^1.17",
-        "bramus/monolog-colored-line-formatter": "~2.0"
+        "gallna/logger": "*"
     },
     "authors": [
         {
@@ -21,9 +16,16 @@
             "email": "tom.jonik@hotmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Kemer\\": "src/Kemer"
+            "Kemer\\Server\\": "src/Kemer/Server"
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@github.com:gallna/logger.git"
+        }
+    ]
 }
