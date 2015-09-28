@@ -1,0 +1,2330 @@
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.90 Safari/537.36 CrKey/1.15.38401
+Range: bytes=0-
+Accept-Encoding: identity;q=1, *;q=0
+Accept: */*
+Accept-Language: en-US,en;q=0.8
+Cast-Device-Capabilities: {"display_supported":true}
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.90 Safari/537.36 CrKey/1.15.38401
+Range: bytes=0-
+Accept-Encoding: identity;q=1, *;q=0
+Accept: */*
+Accept-Language: en-US,en;q=0.8
+Cast-Device-Capabilities: {"display_supported":true}
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=65536-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=983040-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+User-Agent: VLC/2.1.6 LibVLC/2.1.6
+Range: bytes=0-
+Connection: close
+Icy-Metadata: 1
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=65536-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+Host: 10.0.10.107:81
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+Host: 10.0.10.107:81
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=65536-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+Host: 10.0.10.107:81
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+User-Agent: VLC/2.1.6 LibVLC/2.1.6
+Range: bytes=0-
+Connection: close
+Icy-Metadata: 1
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=1909-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://localhost:8000/app/index.html
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept-Encoding: identity;q=1, *;q=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Dnt: 1
+Referer: http://10.0.10.107:81/app.stream/stream.php
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+Range: bytes=0-
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
+GET http://10.0.10.107:81/app.stream/stream.php HTTP/1.1
+Host: 10.0.10.107:81
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Dnt: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,pl;q=0.6
+Origin: http://evil.com/
+
