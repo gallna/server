@@ -8,6 +8,7 @@
         "zendframework/zend-http": "2.4.*",
         "raveren/kint": "^1.0",
         "nikic/fast-route": "^0.6.0",
+        "gallna/stream": "*",
         "gallna/logger": "*"
     },
     "authors": [
@@ -23,6 +24,10 @@
         }
     },
     "repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@github.com:gallna/stream.git"
+        },
         {
             "type": "vcs",
             "url":  "git@github.com:gallna/logger.git"
