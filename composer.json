@@ -8,6 +8,7 @@
         "zendframework/zend-http": "2.4.*",
         "raveren/kint": "^1.0",
         "nikic/fast-route": "^0.6.0",
+        "bramus/ansi-php": "*",
         "gallna/stream": "*",
         "gallna/logger": "*"
     },

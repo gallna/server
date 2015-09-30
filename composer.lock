@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "1adc15db8fd9758adb7500aa628ddb71",
-    "content-hash": "9770b37945959b1293c936ce1371705a",
+    "hash": "7c0675b1b5568c43753839f4a1def8e3",
+    "content-hash": "fb0f9ea1b963fc8b79cc1e765f20e0da",
     "packages": [
         {
             "name": "bramus/ansi-php",
@@ -213,12 +213,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "c4c2ae9e2f9c1c618d31aa2c4f31e0dbe49bf841"
+                "reference": "ecf4fc1ef44d2648e77bf0881a5976b72bfbeabf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/c4c2ae9e2f9c1c618d31aa2c4f31e0dbe49bf841",
-                "reference": "c4c2ae9e2f9c1c618d31aa2c4f31e0dbe49bf841",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/ecf4fc1ef44d2648e77bf0881a5976b72bfbeabf",
+                "reference": "ecf4fc1ef44d2648e77bf0881a5976b72bfbeabf",
                 "shasum": ""
             },
             "require": {
@@ -267,7 +267,7 @@
                 "rest",
                 "web service"
             ],
-            "time": "2015-09-28 16:52:08"
+            "time": "2015-09-30 17:14:23"
         },
         {
             "name": "guzzlehttp/promises",
