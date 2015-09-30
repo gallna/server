@@ -40,7 +40,13 @@ class DefaultHandler extends AbstractHandler
      */
     public function displayException(\Exception $exception, $code = null)
     {
-        $this->display(sprintf("(%s) %s: %s\n",
+        $file = $exception->getFile();
+        if ($exception->getFile()) {
+            $file = basename($exception->getFile());
+        }
+        $this->display(sprintf("%s:%s (%s) %s: %s\n",
+            $file,
+            $exception->getLine(),
             $code ?: $exception->getCode(),
             get_class($exception),
             $exception->getMessage()
