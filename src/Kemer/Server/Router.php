@@ -84,12 +84,15 @@ class Router
     /**
      * Dispatch client Request
      *
-     * @param resource $client
+     * @param resource|Connection $client
      * @return void
      */
-    public function dispatch($client)
+    public function dispatch($connection)
     {
-        $connection = new Connection($client);
+        if (!($connection instanceof Connection)) {
+            $connection = new Connection($connection);
+        }
+
         $message = $connection->read(2048);
         if (empty($message)) {
             return;
@@ -117,7 +120,6 @@ class Router
                 }
                 return true;
         }
-        $connection->close();
     }
 
     protected function handleResponse($response)

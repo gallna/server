@@ -29,9 +29,9 @@ class DefaultHandler extends AbstractHandler
      *
      * @param string $message
      */
-    public function display($message)
+    public function display($message, $color = SGR::COLOR_FG_RED_BRIGHT)
     {
-        $this->ansi()->color(array(SGR::COLOR_FG_RED_BRIGHT))
+        $this->ansi()->color([$color])
              ->text($message);
     }
 
@@ -51,5 +51,6 @@ class DefaultHandler extends AbstractHandler
             get_class($exception),
             $exception->getMessage()
         ));
+        $this->display($exception->__toString()."\n", SGR::COLOR_FG_YELLOW);
     }
 }

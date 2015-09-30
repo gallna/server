@@ -44,12 +44,12 @@ class HtmlServer
     {
         $connection = new Connection($client);
         try {
-            if (!$this->router->dispatch($client)) {
-                $connection->write($this->notFound());
+            if (!$this->router->dispatch($connection)) {
+                $connection->isWritable() and $connection->write($this->notFound());
             }
         } catch (\Exception $e) {
             $this->server->getErrorHandler()->displayException($e);
-            $connection->write($this->serverError());
+            $connection->isWritable() and $connection->write($this->serverError());
         } finally {
             $connection->close();
         }
