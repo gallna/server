@@ -46,6 +46,8 @@ class SocketServer
         );
     }
 
+
+
     /**
      * Run server
      *
@@ -55,9 +57,7 @@ class SocketServer
      */
     public function run($port, $host = null)
     {
-        error_reporting(-1);
-        ini_set("display_errors", true);
-        $this->errorHandler = (new ErrorHandler\DefaultHandler($this->logger))->register();
+        $this->errorHandler = (new ErrorHandler\LogHandler($this->logger))->register();
         $socket = $this->createSocket($port, $host);
         //stream_set_blocking($socket, 0);
         $this->logger->info("listening... [".$host.":".$port."]");

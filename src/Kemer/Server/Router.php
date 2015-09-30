@@ -102,10 +102,10 @@ class Router
         switch ($routeInfo[0]) {
             case Dispatcher::NOT_FOUND:
                 $this->logger->warn(sprintf("Not found: %s", $request->getUri()->getPath()));
-                break;
+                return false;
             case Dispatcher::METHOD_NOT_ALLOWED:
                 $this->logger->warn(sprintf("Not allowed: %s", $request->getUri()->getPath()));
-                break;
+                return false;
             case Dispatcher::FOUND:
                 $this->logger->info(sprintf("New connection: %s", $request->getUri()->getPath()));
                 $handler = $routeInfo[1];
@@ -115,7 +115,7 @@ class Router
                 if ($response = call_user_func_array($handler, $vars)) {
                     $connection->write($this->handleResponse($response));
                 }
-                break;
+                return true;
         }
         $connection->close();
     }
