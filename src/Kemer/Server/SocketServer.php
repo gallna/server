@@ -96,9 +96,13 @@ class SocketServer
     {
         $connection = new Connection($client);
         try {
-            return $this->router->dispatch($client);
+            $this->router->dispatch($client);
         } catch (\Exception $e) {
             $this->errorHandler->displayException($e);
+        } finally {
+            if (is_resource($client)) {
+                fclose($client);
+            }
         }
     }
 }
