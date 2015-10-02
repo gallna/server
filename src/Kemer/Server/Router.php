@@ -137,7 +137,10 @@ class Router
         $segments = explode("\r\n\r\n", $response);
         if (isset($segments[1])) {
             list($headers, $content) = $segments;
-            e(sprintf("%s\n\n%s[...]%s", $headers, substr($content, 0, 30), substr($content, -30)), 'blue');
+            $this->logger->info(
+                "response",
+                [sprintf("%s\n\n%s[...]%s", $headers, substr($content, 0, 30), substr($content, -30))]
+            );
         }
 
         return $response;
