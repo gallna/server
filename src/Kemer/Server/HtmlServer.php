@@ -15,11 +15,6 @@ class HtmlServer
     protected $router;
 
     /**
-     * @var StreamSocketServer
-     */
-    protected $server;
-
-    /**
      * @param Router $router
      */
     public function __construct(Router $router)
@@ -27,43 +22,22 @@ class HtmlServer
         $this->router = $router;
     }
 
-    /**
-     * Run server
-     *
-     * @param integer $port
-     * @param string $host
-     * @return void
-     */
-    public function run($port, $host = null)
+    public function __invoke($client)
     {
-        $this->server = new StreamSocketServer([$this, "handleConnection"]);
-        $this->server->run($port, $host);
+        return $this->handleConnection($client);
     }
 
     public function handleConnection($client)
     {
         $connection = new Connection($client);
         try {
-            if (!$this->router->dispatch($connection)) {
-                $connection->isWritable() and $connection->write($this->notFound());
-            }
+            $this->router->dispatch($connection);
         } catch (\Exception $e) {
-            $this->server->getErrorHandler()->displayException($e);
             $connection->isWritable() and $connection->write($this->serverError());
+            throw $e;
         } finally {
             $connection->close();
         }
-    }
-
-    private function notFound()
-    {
-        $response = new Response();
-        $response->setStatusCode(Response::STATUS_CODE_404);
-        $response->getHeaders()->addHeaders([
-            "Access-Control-Allow-Origin" => "*",
-            'Server' => "Linux/3.x, UPnP/1.0, Kemer/0.1",
-        ]);
-        return $response;
     }
 
     private function serverError()

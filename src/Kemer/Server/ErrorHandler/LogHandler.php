@@ -3,7 +3,7 @@ namespace Kemer\Server\ErrorHandler;
 
 use Kemer\Logger\Logger;
 
-class LogHandler extends AbstractHandler
+class LogHandler extends DefaultHandler
 {
     /**
      * @var Logger
@@ -23,16 +23,42 @@ class LogHandler extends AbstractHandler
      */
     public function displayException(\Exception $exception, $code = null)
     {
-        $this->logger->error(
-            sprintf("(%s) %s: %s",
-                $code ?: $exception->getCode(),
-                get_class($exception),
-                $exception->getMessage()
-            ),
-            [
-                "file" => sprintf("%s [%s]", $exception->getFile(), $exception->getLine()),
-                "trace" => $exception->getTraceAsString()
-            ]
-        );
+        $context = [$exception->__toString()];
+        if ($exception instanceof \ErrorException) {
+            switch ($exception->getCode()) {
+                case E_ERROR:
+                case E_CORE_ERROR:
+                case E_COMPILE_ERROR:
+                case E_USER_ERROR:
+                case E_PARSE:
+                    $this->logger->error($this->getHeader($exception), $context);
+                    break;
+
+                case E_WARNING:
+                case E_CORE_WARNING:
+                case E_COMPILE_WARNING:
+                case E_USER_WARNING:
+                    $this->logger->warn($this->getHeader($exception), $context);
+                    break;
+
+                case E_NOTICE:
+                case E_USER_NOTICE:
+                    $this->logger->notice($this->getHeader($exception), $context);
+                    break;
+
+                case E_STRICT:
+                case E_RECOVERABLE_ERROR:
+                case E_DEPRECATED:
+                case E_USER_DEPRECATED:
+                    $this->logger->notice($this->getHeader($exception), $context);
+                    break;
+
+                default:
+                    $this->logger->error($this->getHeader($exception), $context);
+                    break;
+            }
+        } else {
+            $this->logger->error($this->getHeader($exception), $context);
+        }
     }
 }

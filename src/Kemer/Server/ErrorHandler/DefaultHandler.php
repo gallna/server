@@ -1,38 +1,29 @@
 <?php
 namespace Kemer\Server\ErrorHandler;
 
-use \Bramus\Ansi\Ansi;
-use \Bramus\Ansi\Writers\StreamWriter;
-use \Bramus\Ansi\ControlSequences\EscapeSequences\Enums\SGR;
-
 class DefaultHandler extends AbstractHandler
 {
     /**
-     * @var Ansi
-     */
-    private $ansi;
-    /**
-     * Display message
+     * Create exception header
      *
-     * @param string $message
+     * @param Exception $exception
+     * @return string
      */
-    public function ansi()
+    protected function getHeader(\Exception $exception)
     {
-        if (!$this->ansi) {
-            $this->ansi = new Ansi(new StreamWriter('php://stdout'));
+        $file = $exception->getFile();
+        if ($exception->getFile()) {
+            $file = basename($exception->getFile());
         }
-        return $this->ansi;
-    }
-
-    /**
-     * Display message
-     *
-     * @param string $message
-     */
-    public function display($message, $color = SGR::COLOR_FG_RED_BRIGHT)
-    {
-        $this->ansi()->color([$color])
-             ->text($message);
+        return sprintf("%s:%s (%s) %s: %s\n",
+            $file,
+            $exception->getLine(),
+            ($exception instanceof \ErrorException)
+                ? $this->errorType($exception->getCode())
+                : $exception->getCode(),
+            get_class($exception),
+            $exception->getMessage()
+        );
     }
 
     /**
@@ -40,17 +31,7 @@ class DefaultHandler extends AbstractHandler
      */
     public function displayException(\Exception $exception, $code = null)
     {
-        $file = $exception->getFile();
-        if ($exception->getFile()) {
-            $file = basename($exception->getFile());
-        }
-        $this->display(sprintf("%s:%s (%s) %s: %s\n",
-            $file,
-            $exception->getLine(),
-            $code ?: $exception->getCode(),
-            get_class($exception),
-            $exception->getMessage()
-        ));
-        $this->display($exception->__toString()."\n", SGR::COLOR_FG_YELLOW);
+        echo $this->getHeader($exception);
+        echo $exception->__toString();
     }
 }

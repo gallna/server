@@ -105,10 +105,10 @@ class Router
         switch ($routeInfo[0]) {
             case Dispatcher::NOT_FOUND:
                 $this->logger->warn(sprintf("Not found: %s", $request->getUri()->getPath()));
-                return false;
+                $connection->write($this->notFound());
             case Dispatcher::METHOD_NOT_ALLOWED:
                 $this->logger->warn(sprintf("Not allowed: %s", $request->getUri()->getPath()));
-                return false;
+                $connection->write($this->notAllowed());
             case Dispatcher::FOUND:
                 $this->logger->info(sprintf("New connection: %s", $request->getUri()->getPath()));
                 $handler = $routeInfo[1];
@@ -118,7 +118,6 @@ class Router
                 if ($response = call_user_func_array($handler, $vars)) {
                     $connection->write($this->handleResponse($response));
                 }
-                return true;
         }
     }
 
@@ -141,6 +140,29 @@ class Router
             e(sprintf("%s\n\n%s[...]%s", $headers, substr($content, 0, 30), substr($content, -30)), 'blue');
         }
 
+        return $response;
+    }
+
+
+    private function notFound()
+    {
+        $response = new Response();
+        $response->setStatusCode(Response::STATUS_CODE_404);
+        $response->getHeaders()->addHeaders([
+            "Access-Control-Allow-Origin" => "*",
+            'Server' => "Linux/3.x, UPnP/1.0, Kemer/0.1",
+        ]);
+        return $response;
+    }
+
+    private function notAllowed()
+    {
+        $response = new Response();
+        $response->setStatusCode(Response::STATUS_CODE_405);
+        $response->getHeaders()->addHeaders([
+            "Access-Control-Allow-Origin" => "*",
+            'Server' => "Linux/3.x, UPnP/1.0, Kemer/0.1",
+        ]);
         return $response;
     }
 }

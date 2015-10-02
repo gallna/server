@@ -5,6 +5,7 @@ use Zend\Http\Request;
 use Zend\Http\Response;
 use GuzzleHttp\Psr7\Stream;
 use FastRoute\RouteCollector;
+use Kemer\Logger\Logger;
 
 class StreamSocketServer
 {
@@ -45,7 +46,7 @@ class StreamSocketServer
     public function getErrorHandler()
     {
         if (!$this->errorHandler) {
-            $this->setErrorHandler(new ErrorHandler\DefaultHandler());
+            $this->setErrorHandler(new ErrorHandler\CliHandler());
         }
         return $this->errorHandler;
     }
@@ -100,7 +101,7 @@ class StreamSocketServer
         try {
             return call_user_func($this->handler, $client);
         } catch (\Exception $e) {
-            $this->errorHandler->displayException($e);
+            $this->getErrorHandler()->displayException($e);
         }
     }
 }
