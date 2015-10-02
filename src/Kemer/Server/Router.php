@@ -106,9 +106,11 @@ class Router
             case Dispatcher::NOT_FOUND:
                 $this->logger->warn(sprintf("Not found: %s", $request->getUri()->getPath()));
                 $connection->write($this->notFound());
+                break;
             case Dispatcher::METHOD_NOT_ALLOWED:
                 $this->logger->warn(sprintf("Not allowed: %s", $request->getUri()->getPath()));
                 $connection->write($this->notAllowed());
+                break;
             case Dispatcher::FOUND:
                 $this->logger->info(sprintf("New connection: %s", $request->getUri()->getPath()));
                 $handler = $routeInfo[1];
@@ -118,6 +120,7 @@ class Router
                 if ($response = call_user_func_array($handler, $vars)) {
                     $connection->write($this->handleResponse($response));
                 }
+                break;
         }
     }
 
