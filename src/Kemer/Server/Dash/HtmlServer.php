@@ -39,7 +39,7 @@ class HtmlServer
         $htmlServer = new Server\HtmlServer($this->router);
 
         $server = new Server\StreamSocketServer([$htmlServer, "handleConnection"]);
-        $server->setErrorHandler(new ErrorHandler\LogHandler($this->logger));
+        $server->setErrorHandler(new ErrorHandler\CliHandler($this->logger));
 
         $server->run($port, $host);
     }
