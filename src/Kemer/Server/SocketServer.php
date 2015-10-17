@@ -65,7 +65,7 @@ class SocketServer
         // because the server should run until we decide to kill it.
         for (;;) {
             $read[] = $socket;
-            if (stream_select($read, $write, $except, 0) > 0) {
+            if (stream_select($read, $write, $except, 0, 200000) > 0) {
                 //new client
                 if (!empty($read) && ($client = stream_socket_accept($socket))) {
                     $this->handleConnection($client);
