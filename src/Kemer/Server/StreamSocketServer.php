@@ -67,10 +67,13 @@ class StreamSocketServer
         // Using for without statements causes it to loop forever. We need this,
         // because the server should run until we decide to kill it.
         for (;;) {
-            // Error suppresssion is intentional here, because this function likes
-            // to spit out unnecessary warnings.
-            if ($client = @stream_socket_accept($socket, 3600)) {
-                $this->handleConnection($client);
+            $read[] = $socket;
+            if (stream_select($read, $write, $except, 0) > 0) {
+                //new client
+                if (!empty($read) && ($client = stream_socket_accept($socket))) {
+                    $this->handleConnection($client);
+                    is_resource($client) and fclose($client);
+                }
             }
         }
         fclose($socket);
@@ -102,6 +105,10 @@ class StreamSocketServer
             return call_user_func($this->handler, $client);
         } catch (\Exception $e) {
             $this->getErrorHandler()->displayException($e);
+        } finally {
+            if (is_resource($client)) {
+                fclose($client);
+            }
         }
     }
 }
