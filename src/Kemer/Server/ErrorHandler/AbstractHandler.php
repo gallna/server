@@ -1,7 +1,7 @@
 <?php
 namespace Kemer\Server\ErrorHandler;
 
-abstract class AbstractHandler
+abstract class AbstractHandler implements HandlerInterface
 {
     /**
      * Display exception
@@ -52,8 +52,6 @@ abstract class AbstractHandler
     public function errorHandler($code, $message, $file, $line)
     {
         $exception = new \ErrorException($message, $code, 1, $file, $line);
-        // $this->displayException($exception, $this->errorType($code));
-        // throw $exception;
         switch ($code) {
             case E_ERROR:
             case E_CORE_ERROR:
